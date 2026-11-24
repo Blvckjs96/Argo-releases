@@ -4,6 +4,9 @@ Argo is a desktop AI workspace for macOS that keeps your work and your memory on
 
 ![Chat](images/chat.png)
 
+<p align="center"><img src="images/demo.gif" alt="Argus Spirit reacting to Argo" width="720"></p>
+
+
 ## What you get
 
 - **Your models, your keys.** Point Argo at a local model server or add an API key for a provider you already use. First launch walks you through it in three steps.
@@ -13,9 +16,9 @@ Argo is a desktop AI workspace for macOS that keeps your work and your memory on
 - **Workbench and code graph.** Run sessions against a git repository, each in its own worktree, and browse the structure of a codebase.
 - **Updates in the app.** Argo checks this page for new signed builds.
 
-| First launch | Memory |
+| Make it yours | Memory |
 | --- | --- |
-| ![Setup](images/setup.png) | ![Memory](images/memory.png) |
+| ![Spirit themes](images/themes.png) | ![Memory](images/memory.png) |
 
 ## Install
 
